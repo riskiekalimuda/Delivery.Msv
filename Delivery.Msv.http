@@ -1,0 +1,6 @@
+@Delivery.Msv_HostAddress = http://localhost:5286
+
+GET {{Delivery.Msv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
